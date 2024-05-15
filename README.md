@@ -1,1 +1,1 @@
-# SkillFactory_12.6_ControlProject_TgBOT
+# Кушнер С.В. Группа - PDEVPRO-5. Модуль 12. Итоговый проект по ООП "Телеграм-бот"
